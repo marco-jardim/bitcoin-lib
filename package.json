@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-jardim/bitcoin-lib.git"
+  },
+  "author": "Marco Jardim (marco@tormenta.work)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marco-jardim/bitcoin-lib/issues"
+  },
+  "homepage": "https://github.com/marco-jardim/bitcoin-lib#readme",
+  "dependencies": {
+    "litecoin": "^2.0.4"
+  }
+}
