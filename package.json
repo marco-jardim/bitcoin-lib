@@ -2,7 +2,7 @@
   "name": "bitcoin-lib",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/marco-jardim/bitcoin-lib#readme",
   "dependencies": {
-    "litecoin": "^2.0.4"
+    "litecoin": "2.0.4"
   }
 }
